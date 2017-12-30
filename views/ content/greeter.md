@@ -3,15 +3,16 @@
 
 This page will help you build a *Hello, World* contract on the ethereum command line. If you don't know how to use the command line we recommend you skip this tutorial and instead build a [Custom token using the graphical user interface](./token).
 
-Smart contracts are account holding objects on the ethereum blockchain. They contain code functions and can interact with other contracts, make decisions, store data, and send ether to others. Contracts are defined by their creators, but their execution, and by extension the services they offer, is provided by the ethereum network itself. They will exist and be executable as long as the whole network exists, and will only disappear if they were programmed to self destruct.
+Smart contracts are account holding objects on the ethereum blockchain. They contain code functions and can interact with other contracts, make decisions, store data, and send ether to others. Contracts are defined by their creators, but their execution, and by extension the services they offer, is provided by the ethereum network itself. They will exist and be executable as long as the whole network exists, and will only disappear if they were programmed to self destruct.0x490240b55815604701093c583b64f64feaca98c1e0d482b34cf7515c6c984f73
 
-What can you do with contracts? Well, you can do almost anything really, but for our getting started guide let's do some simple things: To start you will create a classic "Hello World" contract, then you can build your own crypto token to send to whomever you like. Once you've mastered that then you will raise funds through a crowdfunding that, if successful, will supply a radically transparent and democratic organization that will only obey its own citizens, will never swerve away from its constitution and cannot be censored or shut down. And all that in less than 300 lines of code.
+What can you do with contracts? Well, you can do almost anything really, but for our getting started guide let's do some simple things: To start you will create a classic "Hello World" contract, then you can build your own crypto token to send to whomever you like. Once you've mastered that then you will raise funds through a crowdfunding that, if successful, will supply a radically transparent and democratic organization that will only obey its own citizens, will never swerve away from its constitution and cannot be censored or shut down. And all that in less than 300 lines of code.0x490240b55815604701093c583b64f64feaca98c1e0d482b34cf7515c6c984f73
+100000008
+あなたが始める前に：8000008000000
 
-Before you begin:
-[Install the Ethereum CLI](https://ethereum.org/cli)
-[Learn more about contracts](https://github.com/ethereum/go-ethereum/wiki/Contracts-and-Transactions)
-Please confirm that the GUI is closed before entering the `geth` console.
-Run `geth` to begin the sync process (this may take a while on the first run).
+[Ethereum CLIのインストール] （https://ethereum.org/cli）80
+[契約の詳細について] （https://github.com/ethereum/go-ethereum/wiki/Contracts-and-Transactions）0
+`geth`コンソールに入る前にGUIが閉じていることを確認してください。0
+`geth`を実行して同期プロセスを開始します（これは最初の実行では時間がかかります）。
 
 So let's start now.
 
